@@ -1,16 +1,16 @@
-# e_commerce
+# E_commerce Shopping Mobile Application
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+E-Commerce Mobile Application
 
-A few resources to get you started if this is your first Flutter project:
+Online Shopping Store
+•Developed a feature-rich e-commerce application from scratch using Flutter,
+•Implemented Firebase Analytics for comprehensive event tracking and identify opportunities for improving the shopping experience.
+•Successfully launched a fully functional e-commerce app on both Android
+•Integrated push notifications for order updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
